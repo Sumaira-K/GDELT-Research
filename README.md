@@ -476,15 +476,6 @@ The repository currently represents an exploratory research phase rather than a 
 
 B.Tech — Computer Science Engineering / AI & Data Science
 
-Interested in:
-
-* Generative AI
-* Agentic AI
-* Machine Learning
-* Multimodal AI
-* Data Science
-* Research & Applied AI
-
 ---
 
 ## References
